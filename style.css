@@ -1,11 +1,11 @@
 .box{
     height: 100px;
-    background: green;
+    background: rgb(38, 39, 138);
     margin-bottom: 5px;
 }
 .mh{
     min-height: 200px;
-    background-color: #ddd;
+    background-color: rgb(111, 150, 40);
 }
 /* .p{
     padding: 0;
