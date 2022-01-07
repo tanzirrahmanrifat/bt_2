@@ -1,0 +1,13 @@
+.box{
+    height: 100px;
+    background: #1b1c53;
+    margin-bottom: 5px;
+    color: #fff;
+}
+.mh{
+    min-height: 200px;
+    background-color: #6f9628;
+}
+/* .p{
+    padding: 0;
+} */
